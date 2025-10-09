@@ -1,5 +1,6 @@
 ﻿风儿vento电视,#genre#
 CCTV-1综合,http://106.53.99.30/tv/api.php?id=cctv1
+CCTV-1综合,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8?
 CCTV-1综合,http://106.53.99.30/tv/hot.php?id=cctv1
 CCTV-2财经,http://106.53.99.30/tv/hot.php?id=cctv2
 CCTV-3综艺,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
@@ -92,8 +93,7 @@ CCTV-17农业农村,http://go.bkpcp.top/mg/cctv17
 桂林新闻综合,https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
 桂林科教旅游,https://pull.gltvs.com/live/glkj/playlist.m3u8?v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
 桂林公共频道,https://pull.gltvs.com/live/glgg/playlist.m3u8?v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
-梧州新闻综合,http://live.wzrtv.cn:80/xwzh1/sd/live.m3u8
-凤凰香港台,http://106.53.99.30/tv/hot.php?id=fhhk
+凤凰香港,http://106.53.99.30/tv/hot.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -435,11 +435,6 @@ CGTN,http://111.127.156.228:51234/rtp/239.29.1.143:5000
 新疆卫视,http://111.127.156.228:51234/rtp/239.29.1.59:5001
 兵团卫视,http://111.127.156.228:51234/rtp/239.29.1.34:5001
 三沙卫视,http://111.127.156.228:51234/rtp/239.29.1.121:5000
-CETV1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
-CETV2,http://111.127.156.228:51234/rtp/239.29.0.139:5000
-CCTV-4中文国际 欧洲,http://111.127.156.228:51234/rtp/239.29.1.144:5000
-CCTV-4中文国际 美洲,http://111.127.156.228:51234/rtp/239.29.1.142:5000
-CGTN,http://111.127.156.228:51234/rtp/239.29.1.143:5000
 浙江卫视,http://113.106.171.234:8899/rtp/239.20.0.169:2136
 安徽卫视,http://113.106.171.234:8899/rtp/239.20.0.193:2184
 北京卫视,http://113.106.171.234:8899/rtp/239.20.0.121:2040
@@ -618,6 +613,8 @@ NOW新闻台,http://cdn.163189.xyz/163189/now
 梧州教育生活频道,http://live.wzrtv.cn:80/jysh1/sd/live.m3u8
 惠州综合,http://113.106.171.234:8899/rtp/239.21.0.27:3448
 CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN,http://113.106.171.234:8899/rtp/239.20.0.186:2170
+CGTN,http://111.127.156.228:51234/rtp/239.29.1.143:5000
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
@@ -635,10 +632,12 @@ CETV4,http://106.53.99.30/tv/hot.php?id=cetv4
 CETV1,http://113.106.171.234:8899/rtp/239.20.0.213:2224
 CETV2,http://113.106.171.234:8899/rtp/239.21.0.46:3524
 CETV4,http://113.106.171.234:8899/rtp/239.21.0.47:3528
-GCTN,http://113.106.171.234:8899/rtp/239.20.0.186:2170
+CETV1,http://111.127.156.228:51234/rtp/239.29.0.95:5000
+CETV2,http://111.127.156.228:51234/rtp/239.29.0.139:5000
 今日俄罗斯,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 国际|REDBULL SPORTS,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 美国|CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 美国有线新闻,https://newsmax-vizio.amagi.tv/playlist720p.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 印度|WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
