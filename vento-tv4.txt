@@ -16,10 +16,10 @@ CCTV-9纪录,http://106.53.99.30/tv/hot.php?id=cctv9
 CCTV-10科教,http://106.53.99.30/tv/hot.php?id=cctv10
 CCTV-11戏曲,http://106.53.99.30/tv/hot.php?id=cctv11
 CCTV-12社会与法,http://106.53.99.30/tv/hot.php?id=cctv12
-CCTV-13新闻,http://106.53.99.30/tv/api.php?id=cctv13
-CCTV-13新闻,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8?
-CCTV-13新闻,http://106.53.99.30/tv/api.php?id=cctv13-1
 CCTV-13新闻,http://106.53.99.30/tv/hot.php?id=cctv13
+CCTV-13新闻,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8?
+CCTV-13新闻,http://106.53.99.30/tv/api.php?id=cctv13
+CCTV-13新闻,http://106.53.99.30/tv/api.php?id=cctv13-1
 CCTV-14少儿,http://106.53.99.30/tv/hot.php?id=cctv14
 CCTV-15音乐,http://106.53.99.30/tv/hot.php?id=cctv15
 CCTV-16奥林匹克,http://106.53.99.30/tv/hot.php?id=cctv16
@@ -627,3 +627,4 @@ CETV4,http://ik.zjx5106.xyz:8001/udp/239.81.0.188:4056$外网
 美国有线新闻,https://newsmax-vizio.amagi.tv/playlist720p.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
